@@ -1,9 +1,9 @@
 import React from 'react'
 import './Footer.css'
-import footer_logo from '../Assets/logo_big.png'
-import instagram_icon from '../Assets/instagram_icon.png';
-import linkedin_icon from '../Assets/linkedin_logo.jpg'
-import github_icon from '../Assets/github_logo.jpg'
+import footer_logo from '../assets/logo_big.png'
+import instagram_icon from '../assets/instagram_icon.png';
+import linkedin_icon from '../assets/linkedin_logo.jpg'
+import github_icon from '../assets/github_logo.jpg'
 
 const Footer = () => {
   return (
